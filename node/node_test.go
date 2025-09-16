@@ -3,7 +3,7 @@ package node_test
 import (
 	"testing"
 
-	"github.com/areon546/ds/node"
+	"github.com/areon546/go-ds/node"
 	"github.com/areon546/go-helpers/helpers"
 )
 
