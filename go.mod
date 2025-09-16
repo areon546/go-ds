@@ -1,4 +1,4 @@
-module github.com/areon546/ds
+module github.com/areon546/go-ds
 
 go 1.24.2
 
